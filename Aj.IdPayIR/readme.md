@@ -1,6 +1,5 @@
 ﻿# Aj.IdPayIR
 #### Payment Gateway tool
-<p>
-A tool to help you to connect your <strong>Dot NET</strong> 
-project to <strong>IdPay.ir</strong> Payment Gateway.
-</p>
+
+A tool to help you to connect your **Dot NET** 
+project to **IdPay.ir** Payment Gateway.
